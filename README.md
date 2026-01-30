@@ -6,14 +6,15 @@ The project focuses on the practical integration of mechanical design, electroni
 
 <p align="center">
   <a href="https://www.dropbox.com/scl/fi/iy9ce1x3h1j9na7a9x46l/hexapodo_chikistriskis.mp4?rlkey=ps5pi55trdk393wgwumsy095s&raw=1" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0d9b9cd1-ef4b-4958-b624-d38c34cd7480" alt="Hexapod demo video" width="400">
+    <img src="https://github.com/user-attachments/assets/28ac5e9e-72d2-4fd4-ae5b-849419b2dd01"
+         alt="Hexapod demo video"
+         width="400">
   </a>
 </p>
 
 <p align="center">
-  <em>Click the image to play the demo video</em>
+  <em>Click to play demo video</em>
 </p>
-
 
 ---
 
