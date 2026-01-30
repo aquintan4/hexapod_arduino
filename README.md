@@ -68,7 +68,10 @@ The system is built using the following main hardware elements:
 
 ## 👤 Author
 
-Álvaro Quintana  
+Álvaro Quintana
+Documentation:
+David Pons Canet
+Daniel Montiel López
 Robotics Software Engineering Student
 
 <p align="center">
